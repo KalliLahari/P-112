@@ -1,0 +1,38 @@
+body
+{
+  color:white;
+  background-image: linear-gradient(to left top, #ea04ff, #0054fb, #ff00d9, #1100fc, #8800ff);
+  font-family: 'Fraunces', serif;
+  
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px solid black;
+  width: 350px;
+  height: 300px; 
+}
+#result_name  
+{
+  color:#8800ff;
+}
+.hand_name
+{
+  font-size: 40px;
+}
+.hand_emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 20px;
+  letter-spacing: 4px;
+  color: rgb(211, 51, 255);
+  border-radius: 10px;
+}
+label{
+  font-size: 20px;
+}
